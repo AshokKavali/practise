@@ -10,6 +10,8 @@ public class GitExecutionSampleApplication {
 		SpringApplication.run(GitExecutionSampleApplication.class, args);
 		System.out.println("Hello World Git Sample Execution!");
 		
+		System.out.println("Git execution trying to commit");
+		
 	}
 
 }
