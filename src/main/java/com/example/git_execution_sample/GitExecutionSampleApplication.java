@@ -9,7 +9,7 @@ public class GitExecutionSampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitExecutionSampleApplication.class, args);
 		System.out.println("Hello World Git Sample Execution!");
-		System.out.println("print statement added");
+		
 	}
 
 }
